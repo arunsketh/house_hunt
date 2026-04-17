@@ -1,0 +1,8 @@
+streamlit
+sqlmodel
+httpx
+pydantic
+rich
+firecrawl-py
+geopy
+pandas
